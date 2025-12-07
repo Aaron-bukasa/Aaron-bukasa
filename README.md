@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+    <h1 align="center">Aaron Bukasa</h1>
   <h3 align="center">Finance & Tech Architect 🚀</h3>
   <p align="center">
     Je fusionne la rigueur financière et l'ingénierie logicielle pour bâtir des écosystèmes performants.
