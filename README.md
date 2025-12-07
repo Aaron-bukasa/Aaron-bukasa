@@ -47,18 +47,6 @@ Architecte logiciel spécialisé dans les solutions **Desktop (Electron)** et **
 <br/>
 
 <div align="center">
-  ### 📊 Mes Statistiques (Resumé)
-
-> Comme je travaille principalement sur des contrats commerciaux privés (NDA), mes statistiques GitHub publiques ne reflètent pas mon activité quotidienne intense.
-
-- **Projets majeurs livrés :** 3 (Gestikash, Kashio, CargoTrack)
-- **Lignes de code (est.) :** +50,000
-- **Technologies principales :** React, Electron, Node.js
-</div>
-
-<br/>
-
-<div align="center">
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" />
   </p>
