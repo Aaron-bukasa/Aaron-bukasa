@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aaron-bukasa/Aaron-bukasa/assets/IMAGE_LINK_HERE" width="100%" alt="Aaron Bukasa Banner" />
+  <img src="https://github.com/Aaron-bukasa/Aaron-bukasa/blob/main/assets/banniere.jpg?raw=true" width="100%" alt="Aaron Bukasa Banner" />
 </div>
 
 <div align="center">
