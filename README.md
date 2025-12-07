@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h1 align="center">Aaron Bukasa</h1>
+  <h1 align="center">Aaron Bukasa</h1>
   <h3 align="center">Finance & Tech Architect 🚀</h3>
   <p align="center">
     Je fusionne la rigueur financière et l'ingénierie logicielle pour bâtir des écosystèmes performants.
@@ -48,8 +48,8 @@ Architecte logiciel spécialisé dans les solutions **Desktop (Electron)** et **
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaron-bukasa&show_icons=true&locale=fr&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-bukasa&layout=compact&langs_count=8&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aaron-bukasa&show_icons=true&locale=fr&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-bukasa&layout=compact&langs_count=8&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
   </a>
 </div>
 
