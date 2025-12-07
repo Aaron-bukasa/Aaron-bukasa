@@ -47,10 +47,13 @@ Architecte logiciel spécialisé dans les solutions **Desktop (Electron)** et **
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aaron-bukasa&show_icons=true&locale=fr&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-bukasa&layout=compact&langs_count=8&bg_color=09090B&title_color=10B981&text_color=A1A1AA&icon_color=6366F1&border_color=27272a&hide_border=false" />
-  </a>
+  ### 📊 Mes Statistiques (Resumé)
+
+> Comme je travaille principalement sur des contrats commerciaux privés (NDA), mes statistiques GitHub publiques ne reflètent pas mon activité quotidienne intense.
+
+- **Projets majeurs livrés :** 3 (Gestikash, Kashio, CargoTrack)
+- **Lignes de code (est.) :** +50,000
+- **Technologies principales :** React, Electron, Node.js
 </div>
 
 <br/>
