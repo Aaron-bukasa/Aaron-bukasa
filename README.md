@@ -4,9 +4,9 @@
 
 <div align="center">
   <h1 align="center">Aaron Bukasa</h1>
-  <h3 align="center">Finance & Tech Architect 🚀</h3>
+  <h3 align="center">Fintech Engineer | Payment Systems & Transaction Architect</h3>
   <p align="center">
-    Je fusionne la rigueur financière et l'ingénierie logicielle pour bâtir des écosystèmes performants.
+    I design and build secure, scalable financial systems handling real-world transactions, wallets and distributed infrastructures.
   </p>
 </div>
 
@@ -26,17 +26,49 @@
 
 <br/>
 
-### ⚡ À propos de moi
+---
 
-Architecte logiciel spécialisé dans les solutions **Desktop (Electron)** et **Mobile (React Native)** pour la finance et la logistique. Mon objectif est de créer des applications "Offline-first", robustes et sécurisées.
+### ⚡ About Me
 
-- 🔭 Je travaille actuellement sur **Gestikash V2** (Architecture distribuée).
-- 💼 Stack de prédilection : **React, Electron, Node.js, Prisma**.
-- 🌍 Basé en **RDC**, je collabore avec des entreprises internationales.
+Fintech Engineer with a background in **Finance and Software Engineering**.
 
-<br/>
+I specialize in building:
 
-### 🛠 Environment Technique
+- 💳 Secure payment systems
+- 👛 Wallet architectures
+- 🔄 Transaction-heavy platforms
+- 📊 Financial dashboards & reporting systems
+- 🌐 Distributed and offline-first financial applications
+
+I combine financial logic (cashflow, risk management, transaction integrity) with robust backend architecture using **Node.js, TypeScript and PostgreSQL**.
+
+Currently working on **Gestikash V2**, a distributed financial system designed for reliability and scalability.
+
+---
+
+### 💰 Fintech Experience
+
+- Designed and maintained transaction systems for betting platform (**Simbabet**)
+- Built wallet and payment flows for logistics platform (**CargoTrack**)
+- Integrated payment APIs (Stripe, PayPal, Flutterwave)
+- Implemented secure transaction handling and backend validation logic
+- Developed offline-first financial applications using Electron and React Native
+- Managed API architecture using Node.js + Prisma + PostgreSQL
+
+---
+
+### 🏗 Technical Architecture Focus
+
+- REST & scalable API design
+- Transaction consistency & validation logic
+- Payment webhook handling
+- Database integrity & relational modeling
+- Secure authentication flows
+- Distributed system patterns
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +76,21 @@ Architecte logiciel spécialisé dans les solutions **Desktop (Electron)** et **
   </a>
 </div>
 
-<br/>
+---
+
+### 🌍 Work Philosophy
+
+Based in DR Congo, collaborating with international teams.
+
+I focus on building financial systems that are:
+- Reliable
+- Secure
+- Scalable
+- Business-driven
+
+Open to remote fintech opportunities and technical collaborations.
+
+---
 
 <div align="center">
   <p align="center">
