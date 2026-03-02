@@ -48,7 +48,7 @@ Currently working on **Gestikash V2**, a distributed financial system designed f
 
 ### 💰 Fintech Experience
 
-- Designed and maintained transaction systems for betting platform (**Simbabet**)
+- Designed and maintained transaction systems for betting platform
 - Built wallet and payment flows for logistics platform (**CargoTrack**)
 - Integrated payment APIs (Stripe, PayPal, Flutterwave)
 - Implemented secure transaction handling and backend validation logic
